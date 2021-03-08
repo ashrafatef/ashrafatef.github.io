@@ -1,9 +1,9 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
+date: '2019-2-1'
+title: 'Backend Engineer'
+company: 'Nozol'
+location: 'Nasr City, Cairo'
+range: 'Feb 2019 - Jun 2019'
 url: 'https://www.apple.com/music/'
 ---
 

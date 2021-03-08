@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2019-6-15'
+title: 'Software Development Engineer'
+company: 'CEQUENS'
+location: 'Nasr City, Cairo'
+range: 'Jun 2019 - July 2020'
+url: 'https://www.cequens.com/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
