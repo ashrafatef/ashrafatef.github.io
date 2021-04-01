@@ -2,7 +2,7 @@
 date: '2019-2-1'
 title: 'Backend Engineer'
 company: 'Nozol'
-location: 'Nasr City, Cairo'
+location: 'Nasr City,  Cairo'
 range: 'Feb 2019 - Jun 2019'
 url: 'https://www.apple.com/music/'
 ---
