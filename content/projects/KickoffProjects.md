@@ -1,11 +1,10 @@
 ---
 date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+title: 'Kickoff Projects'
+github: 'https://github.com/ashrafatef/kickoff-projects'
+external: ''
 tech:
-  - HTML
-  - SCSS
+  - Typescript
 showInProjects: true
 ---
 
